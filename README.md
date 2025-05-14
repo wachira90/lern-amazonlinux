@@ -1,0 +1,2 @@
+# lern-amazonlinux
+lerning amazonlinux
